@@ -62,6 +62,12 @@ Some of them can be toggled at runtime, some cannot.
   * Controller configuration menu
   * ...
 * Can load DFFs and TXDs from other platforms, possibly with a performance penalty
+* Automatic input switching. You no longer have to toggle between Standard controls and Classic controls.
+* Autosave feature. The game automatically saves after every mission (must be on foot).
+* Added blood droplets. Based on the neo rain effect.
+* Re-enabled money messages.
+* Enabled loading screens.
+* Fixed on-foot camera modes. Intermediate zoom now works properly.
 * ...
 
 ## To-Do
